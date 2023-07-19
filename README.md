@@ -1,7 +1,7 @@
 ### Hi there 👋
-I'm Zhai Zhuoran
-🔭I’m currently studying in the College of Arts & Media, Tongji University of technology
-💬:zhuoranzhai@163.com
+- I'm Zhai Zhuoran
+- 🔭I’m currently studying in the College of Arts & Media, Tongji University of technology
+- 💬:zhuoranzhai@163.com
 <!--
 **ZoraZhai/ZoraZhai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
